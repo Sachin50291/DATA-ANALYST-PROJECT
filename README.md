@@ -22,8 +22,17 @@ To develop an interactive Power BI dashboard for Ola ride bookings that provides
 *  Use KPI cards, bar/line charts, pie charts, and maps. Add slicers for filters like date, location, or vehicle type.
 *  Test dashboard interactivity, validate metrics, schedule refreshes, and publish it to Power BI Service or SharePoint.
 ## Dashboard
-
-
+![picture3](https://github.com/user-attachments/assets/19941aac-9c16-4309-bdf1-a35bc9e48437)
+## Project Insights
+*  High cancellation rates by customers during peak hours suggest potential delays or pricing issues.
+*  Sedans are the most preferred vehicle type, followed by hatchbacks, indicating customer preference for comfort.
+*  Digital payments dominate over cash, showing a strong shift toward cashless transactions.
+*  On-time performance drops significantly in specific locations, pointing to traffic bottlenecks or driver availability.
+*  Average customer rating remains high, but some drivers receive consistently low ratings and need review.
+## Final Conclusion:
+The dashboard provides actionable insights into booking trends, cancellations, and ride performance.
+It helps identify operational bottlenecks and customer behavior patterns for better decision-making.
+Overall, it empowers stakeholders to enhance service efficiency and improve customer satisfaction.
 
 
 
